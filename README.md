@@ -1,2 +1,10 @@
-# sensor-code
-Code for Arduino sensor package
+Low Cost Sensors for Real-Time Continuous Water Quality Monitoring
+
+Non-point source programs such as Georgia-Adopt-A-Stream that utilize citizen science data collected through volunteer monitoring efforts at the community level are vital to understanding base-line water quality conditions and the state of our nations waters. Traditional means of water quality monitoring involving individual field measurements at a discrete point in time are unable to capture the daily fluctuations in water quality parameters that are important to understanding the overall integrity of aquatic systems. Collecting storm event data can also be difficult and dangerous using traditional means. Advanced monitoring technologies capable of “real-time” continuous measurements, data logging, and remote telemetry are available. However, many of these options are extremely cost prohibitive for volunteer monitoring organizations, and even at the state and federal levels for large scale monitoring networks.
+
+In recent years a rapid expansion of online resources and support have become available for electronics and robotics hobbyists for developing a very wide range of low cost open source projects. Open-source microprocessors/microcontrollers such as Arduinos (and Arduino based alternatives) have opened the door for electronics/robotics development to the backyard hobbyist/citizen scientist. Various academic researchers and citizen scientists have begun to employ these open source options to the development of low-cost technologies for collecting environmental data, including researchers here in our own backyard at the University of Georgia. Using a combination of relatively cheap electronics components and open source sensors one can develop water quality sensors for key parameters that are equipped with data logging, and remote telemetry for a few $100 to $1000 compared to standard equipment costing in the range of $10,000 - $20,000 with similar capabilities. It is important that the EPA promotes and supports this type of open-source innovation as well as begin in-depth evaluations of the capabilities and limitations of low-cost water quality sensors.
+
+The two main goals of this project are:
+1. Build and deploy low-cost WQ sensors to enhance regional WQ monitoring capabilities at the federal/state/ and community level.
+2. Evaluate the data quality and usability of low-cost WQ sensor technology while providing tools and guidance to WQ managers and citizen scientists interested in continuous WQ monitoring.
+
