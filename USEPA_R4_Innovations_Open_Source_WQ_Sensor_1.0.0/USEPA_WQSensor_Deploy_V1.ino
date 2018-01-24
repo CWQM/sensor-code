@@ -8,7 +8,7 @@
  *  manufacturers (e.g. Arduino, Atlas-Scientific, Adafruit Industries, etc). This program and associated water quality sensor design is in the public domain and may be freely 
  *  replicated or modified.
  *  
- *  Version: USEPA_R4_Innovations_Open_Source_WQ_Sensor_1.0.0.ino     (Most recent version can be accessed at https://github.com/CWQM)
+ *  Version: USEPA_WQSensor_Deploy_V1.ino     (Most recent version can be accessed at https://github.com/CWQM)
  *  
  *  Project Contacts: Nathan Barlet USEPA SESD (Barlet.Nathan@epa.gov)
  *                    Derek Little  USEPA SESD (Little.Derek@epa.gov)
