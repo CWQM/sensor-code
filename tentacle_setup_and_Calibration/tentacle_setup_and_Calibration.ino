@@ -58,7 +58,7 @@ const int s0 = 7;                        //Arduino pin 7 to control pin S0
 const int s1 = 6;                        //Arduino pin 6 to control pin S1
 const int enable_1 = 5;                   //Arduino pin 5 to control pin E on shield 1
 const int enable_2 = 4;                  //Arduino pin 4 to control pin E on shield 2
-const int TentGND_pin = 34;
+const int TentGND_pin = 44;
 const int I2C_pin = 39;
 const int I2C2_pin = 43;
 
